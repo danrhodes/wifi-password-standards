@@ -18,6 +18,7 @@ Emojis mean:
 - ﻿﻿Length: 8
 - ﻿﻿Example: HAJDICHQ
 - Notes: 
+- Default Router: 
 - ﻿﻿Brute-Force Cracking Time: 
 * M1: 
 * RTX 2060: 
@@ -30,6 +31,7 @@ Emojis mean:
 - ﻿﻿Length: 10
 - ﻿﻿Example: HAJDICHQFY
 - Notes: 
+- Default Router: 
 - ﻿﻿Brute-Force Cracking Time: 
 * M1: 
 * RTX 2060: 
@@ -42,6 +44,7 @@ Emojis mean:
 - ﻿﻿Length: 12
 - ﻿﻿Example: g2Yhg8Hus1Hu
 - Notes: 
+- Default Router: 
 - ﻿﻿Brute-Force Cracking Time: 
 * M1: 
 * RTX 2060: 
