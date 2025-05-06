@@ -12,7 +12,7 @@ Emojis mean:
 - 🟠: Depends on hardware/format
 - 🟢: Brute-forcable
 
-### ‘SKY?????’
+### SKY?????
 - Characters: A-Z
 - Format: ABCDEFGH
 - ﻿﻿Length: 8
@@ -20,12 +20,12 @@ Emojis mean:
 - Notes: 
 - Default Router: 
 - ﻿﻿Brute-Force Cracking Time: 
-* M1: 
-* RTX 2060: 
-* RTX 4090: 
+    - M1: 
+    - RTX 2060: 
+    - RTX 4090: 
 - ﻿﻿Mask: `?u?u?u?u?u?u?u?u`
 
-### 'SKY?????’
+### SKY?????
 - Characters: A-Z
 - Format: ABCDEFGHIJ
 - ﻿﻿Length: 10
@@ -33,12 +33,12 @@ Emojis mean:
 - Notes: 
 - Default Router: 
 - ﻿﻿Brute-Force Cracking Time: 
-* M1: 
-* RTX 2060: 
-* RTX 4090: 
+    - M1: 
+    - RTX 2060: 
+    - RTX 4090: 
 - ﻿﻿Mask: `?u?u?u?u?u?u?u?u?u?u`
 
-### 'SKY?????’
+### SKY?????
 - Characters: a-z, A-Z, 0-9
 - Format: Random
 - ﻿﻿Length: 12
@@ -46,9 +46,9 @@ Emojis mean:
 - Notes: 
 - Default Router: 
 - ﻿﻿Brute-Force Cracking Time: 
-* M1: 
-* RTX 2060: 
-* RTX 4090: 
+    - M1: 
+    - RTX 2060: 
+    - RTX 4090: 
 - ﻿﻿Mask: `-1 ?u?l?d ?1?1?1?1?1?1?1?1?1?1?1?1`
 
 ### 🟢 `WiFi-1234`
