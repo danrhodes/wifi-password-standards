@@ -12,6 +12,42 @@ Emojis mean:
 - 🟠: Depends on hardware/format
 - 🟢: Brute-forcable
 
+### ‘SKY?????’
+- Characters: A-Z
+- Format: ABCDEFGH
+- ﻿﻿Length: 8
+- ﻿﻿Example: HAJDICHQ
+- Notes: 
+- ﻿﻿Brute-Force Cracking Time: 
+* M1: 
+* RTX 2060: 
+* RTX 4090: 
+- ﻿﻿Mask: `?u?u?u?u?u?u?u?u`
+
+### 'SKY?????’
+- Characters: A-Z
+- Format: ABCDEFGHIJ
+- ﻿﻿Length: 10
+- ﻿﻿Example: HAJDICHQFY
+- Notes: 
+- ﻿﻿Brute-Force Cracking Time: 
+* M1: 
+* RTX 2060: 
+* RTX 4090: 
+- ﻿﻿Mask: `?u?u?u?u?u?u?u?u?u?u`
+
+### 'SKY?????’
+- Characters: a-z, A-Z, 0-9
+- Format: Random
+- ﻿﻿Length: 12
+- ﻿﻿Example: g2Yhg8Hus1Hu
+- Notes: 
+- ﻿﻿Brute-Force Cracking Time: 
+* M1: 
+* RTX 2060: 
+* RTX 4090: 
+- ﻿﻿Mask: `-1 ?u?l?d ?1?1?1?1?1?1?1?1?1?1?1?1`
+
 ### 🟢 `WiFi-1234`
 - Characters: 0-9
 - Length: 8
